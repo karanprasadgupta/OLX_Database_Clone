@@ -1,4 +1,4 @@
-# OLX_Database_Clone
+# OLX Database Clone
 This reposiry conatins A database clone of popular Classified Advertisemnt website **OLX**.
 
 ### `E-R Diagram`
