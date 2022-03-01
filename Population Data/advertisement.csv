@@ -1,0 +1,51 @@
+﻿adv_id,verification_status,adv_title,is_active,post_date,expiry_date,user_id,product_id
+1,Unknown,morbi ut odio cras mi pede,Y,2022-02-21 18:18,2022-03-25 08:52,9132328837,45
+2,Verified,gravida nisi at nibh in hac,Y,2022-02-27 19:01,2022-03-09 18:08,9450061427,29
+3,Unknown,erat vestibulum sed magna,N,2022-02-23 11:53,2022-02-17 17:35,9797736171,17
+4,Verified,molestie lorem quisque ut,Y,2022-02-01 15:28,2022-03-16 11:44,9586640674,33
+5,Verified,sapien placerat ante nulla,Y,2022-01-09 09:56,2022-03-24 15:54,9898614273,42
+6,Verified,orci vehicula condimentum curabitur,Y,2022-01-07 22:18,2022-03-18 23:58,9867456663,36
+7,Verified,augue vestibulum ante ipsum primis in,Y,2022-02-14 01:33,2022-03-21 04:15,9771339555,38
+8,Rejected,ultrices libero non mattis pulvinar nulla,N,2022-01-09 22:22,2022-02-15 18:54,9984457412,12
+9,Unknown,quisque erat eros viverra eget,Y,2022-01-11 07:01,2022-03-07 23:48,9776132442,28
+10,Unknown,leo pellentesque ultrices mattis,N,2022-01-27 17:34,2022-02-03 08:29,9615882758,2
+11,Unknown,cras mi pede,N,2022-02-03 14:10,2022-02-17 01:33,9436652636,16
+12,Unknown,ut massa quis augue luctus,Y,2022-02-09 05:44,2022-03-01 07:36,9521184877,23
+13,Unknown,libero convallis eget eleifend,Y,2022-01-17 21:40,2022-03-16 17:37,9113634208,34
+14,Unknown,in sapien iaculis congue vivamus metus,Y,2022-02-13 02:05,2022-03-16 21:54,9835335356,35
+15,Verified,accumsan odio curabitur convallis duis,N,2022-01-06 22:09,2022-02-02 18:01,9615882758,1
+16,Verified,donec posuere metus vitae ipsum aliquam,Y,2022-01-19 08:36,2022-03-24 04:09,9436652636,41
+17,Verified,in sapien iaculis congue,Y,2022-01-03 07:38,2022-03-11 23:04,9521184877,30
+18,Unknown,dolor vel est donec odio,Y,2022-02-21 17:24,2022-03-15 06:21,9113634208,32
+19,Unknown,interdum venenatis turpis enim blandit mi,Y,2022-01-19 04:31,2022-03-04 17:07,9835335356,25
+20,Unknown,interdum mauris non ligula pellentesque,N,2022-02-03 05:37,2022-02-09 23:40,9617865922,6
+21,Unknown,purus sit amet nulla,Y,2022-01-28 01:22,2022-03-23 12:33,9868218176,40
+22,Unknown,auctor sed tristique in,N,2022-01-16 04:11,2022-02-25 23:58,9989528254,21
+23,Unknown,tincidunt ante vel ipsum,N,2022-01-29 05:35,2022-02-04 05:35,9317811717,3
+24,Verified,eleifend quam a,Y,2022-01-11 16:53,2022-03-25 07:20,9261481743,44
+25,Verified,justo in blandit,N,2022-02-17 20:51,2022-02-13 19:48,9139623353,10
+26,Unknown,tellus nisi eu,Y,2022-02-20 15:30,2022-02-28 21:46,9185557667,22
+27,Unknown,suspendisse potenti in eleifend,N,2022-01-23 12:21,2022-02-16 15:52,9513247511,14
+28,Unknown,pede posuere nonummy integer,N,2022-02-20 08:57,2022-02-20 12:20,9120152327,19
+29,Verified,massa quis augue luctus tincidunt,Y,2022-01-01 10:45,2022-03-05 22:58,9161231259,26
+30,Verified,ipsum primis in faucibus orci,N,2022-02-01 13:25,2022-02-24 20:43,9491252693,20
+31,Verified,tortor risus dapibus augue,Y,2022-02-09 22:35,2022-03-25 10:35,9776132442,46
+32,Verified,est phasellus sit,Y,2022-02-04 23:09,2022-03-26 11:17,9615882758,47
+33,Rejected,luctus nec molestie sed justo pellentesque,N,2022-02-17 08:01,2022-02-12 23:35,9436652636,9
+34,Verified,vulputate elementum nullam varius nulla,N,2022-02-25 06:01,2022-02-14 08:10,9521184877,11
+35,Verified,dui nec nisi volutpat,N,2022-01-27 01:21,2022-02-15 22:27,9113634208,13
+36,Unknown,lacus morbi sem mauris,Y,2022-02-09 18:49,2022-03-19 10:48,9835335356,37
+37,Verified,aliquet ultrices erat tortor,N,2022-01-30 19:50,2022-02-07 07:38,9393351584,4
+38,Unknown,dui nec nisi volutpat eleifend,N,2022-02-11 08:29,2022-02-09 23:14,9831564029,5
+39,Unknown,dui nec nisi volutpat eleifend,Y,2022-02-05 02:00,2022-03-26 23:44,9132837735,48
+40,Verified,consequat varius integer,Y,2022-01-02 13:48,2022-03-07 12:13,9363781214,27
+41,Unknown,in quam fringilla,Y,2022-02-19 20:44,2022-03-13 22:16,9608531128,31
+42,Unknown,convallis nunc proin at,Y,2022-01-26 04:17,2022-03-27 07:25,9746380491,50
+43,Verified,ligula suspendisse ornare,Y,2022-01-07 15:19,2022-03-27 00:40,9676440383,49
+44,Rejected,lectus suspendisse potenti in eleifend quam,N,2022-01-05 15:02,2022-02-19 22:25,9552659477,18
+45,Verified,integer ac neque duis bibendum,Y,2022-02-27 03:02,2022-03-24 23:49,9531982995,43
+46,Unknown,sapien cum sociis natoque,Y,2022-01-21 01:10,2022-03-22 21:56,9555268183,39
+47,Unknown,odio curabitur convallis duis,Y,2022-01-19 12:38,2022-03-02 11:31,9431871313,24
+48,Unknown,odio elementum eu interdum,N,2022-02-13 15:24,2022-02-10 07:39,9552436653,7
+49,Unknown,nunc commodo placerat,N,2022-01-25 08:12,2022-02-11 20:59,9735569237,8
+50,Rejected,sapien in sapien iaculis congue vivamus,N,2022-01-02 13:18,2022-02-17 00:13,9985793436,15

@@ -1,0 +1,12 @@
+product_id,cat_id,manufacturer,year_of_pub,model_name,fuel,distance
+2,5,Pontiac,1968,LeMans,CNG,35732
+15,5,Honda,1992,Accord,Diesel,191638
+24,5,Ford,2006,F150,Petrol,138164
+25,5,Mitsubishi,1985,Pajero,Diesel,42063
+26,5,Pontiac,1988,Grand Am,Hybrid,164289
+38,5,Pontiac,2003,Vibe,Petrol,142290
+40,5,Mercedes-Benz,2012,M-Class,Petrol,96489
+41,5,Maserati,1990,430,CNG,28796
+42,5,Volvo,2012,C30,Hybrid,184625
+43,5,Mercedes-Benz,1993,SL-Class,Petrol,168519
+49,5,Lincoln,2011,Navigator,CNG,106451
