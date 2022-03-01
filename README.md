@@ -11,4 +11,4 @@ This reposiry conatins A database clone of popular Classified Advertisemnt websi
 ### [`Population Data`](Population%20Data)
 * Contains Data to pe populated into table for testing purpose in `CSV` format
 ### [`SQL Queries`](SQL%20Queries)
-* Queries fro insertion of data and Testing
+* Queries for insertion of data and Testing
