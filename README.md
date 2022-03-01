@@ -6,7 +6,9 @@ This reposiry conatins A database clone of popular Classified Advertisemnt websi
 ### `Relational Schema`
 * Conversion of E-R diagram to relational Schema
 * Contains Logical Database Design
-### [`SQL Databse Tables`](database)
+### [`SQL Databse Tables`](Database Tables)
 * Conatins SQL tables of the database
-### [`Population Data`](population_data)
+### [`Population Data`](Population Data)
 * Contains Data to pe populated into table for testing purpose in `CSV` format
+### [`SQL Queries`](SQL Queries)
+* Queries fro insertion of data and Testing
