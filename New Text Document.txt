@@ -145,8 +145,3 @@ group by cr.manufacturer,cr.fuel
 order by cr.fuel,`Avg Price`;
 
 
-# view all data for a specific product product page
-
-
-#To fetch ALTERNATE records from a table. (EVEN NUMBERED)
-select * from emp where rowid in (select decode(mod(rownum,2),0,rowid, null) from emp);
