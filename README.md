@@ -1,5 +1,6 @@
 # OLX Database Clone
-This reposiry conatins A database clone of popular Classified Advertisemnt website **OLX**.
+OLX Database Clone
+This repository contains the database design and schema for a clone of the OLX platform, a popular online classifieds marketplace. The OLX Database Clone focuses on the database structure and entity-relationship (ER) model used by websites like OLX.
 
 ### `E-R Diagram`
 * Shows Entity-Relationship Diagram
